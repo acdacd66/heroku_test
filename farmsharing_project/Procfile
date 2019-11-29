@@ -1,0 +1,1 @@
+web: gunicorn farmsharing_project.wsgi --log-file -
